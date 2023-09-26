@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://davnrraft3y2o"]
+
+[ext_resource type="Texture2D" uid="uid://b3t8eirdeehph" path="res://Resources/speedy_saucer_assets/purple.png" id="1_w1lgp"]
+
+[node name="Level1" type="Node2D"]
+
+[node name="BackGround" type="TextureRect" parent="."]
+offset_right = 1152.0
+offset_bottom = 648.0
+texture = ExtResource("1_w1lgp")
+stretch_mode = 1
