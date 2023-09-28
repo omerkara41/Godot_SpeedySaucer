@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://diaxu8ult6vop"]
+
+[node name="Maze" type="Area2D"]
+z_index = -10
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(131, 99, 135, 559, 1027, 553, 1039, 87, 857, 87, 867, 437, 307, 435, 311, 99)
